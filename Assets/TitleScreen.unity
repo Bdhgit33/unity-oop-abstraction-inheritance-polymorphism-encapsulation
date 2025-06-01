@@ -120,7 +120,6 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< Updated upstream
-=======
 --- !u!1 &168140544
 GameObject:
   m_ObjectHideFlags: 0
@@ -356,6 +355,7 @@ MonoBehaviour:
   m_StyleSheet: {fileID: 0}
   m_TextStyleHashCode: -1183493901
   m_overrideHtmlColors: 0
+  m_overrideHtmlColors: { }
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
@@ -513,7 +513,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 397274234321327000, guid: 988008dfee7020b40b1a781547311015, type: 3}
   m_PrefabInstance: {fileID: 325032681}
   m_PrefabAsset: {fileID: 0}
->>>>>>> Stashed changes
 --- !u!1 &349146597
 GameObject:
   m_ObjectHideFlags: 0
@@ -635,7 +634,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
-<<<<<<< Updated upstream
 =======
 --- !u!1001 &373849613
 PrefabInstance:
@@ -864,7 +862,7 @@ MonoBehaviour:
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
   m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
+  m_overrideHtmlColors: { }
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
@@ -1216,7 +1214,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: ""
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1200921659
@@ -1314,7 +1312,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Enter Text Here...\u200B"
+  m_text: "Enter Text Here…\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -1337,7 +1335,7 @@ MonoBehaviour:
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
   m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
+  m_overrideHtmlColors: { }
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
@@ -1484,10 +1482,7 @@ GameObject:
   - component: {fileID: 1667931184}
   - component: {fileID: 1667931183}
   - component: {fileID: 1667931182}
-<<<<<<< Updated upstream
-=======
   - component: {fileID: 1667931185}
->>>>>>> Stashed changes
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1569,8 +1564,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-<<<<<<< Updated upstream
-=======
 --- !u!114 &1667931185
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1695,7 +1688,7 @@ MonoBehaviour:
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
   m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
+  m_overrideHtmlColors: { }
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
@@ -1847,7 +1840,7 @@ MonoBehaviour:
   m_HideMobileInput: 0
   m_HideSoftKeyboard: 0
   m_CharacterValidation: 0
-  m_RegexValue: 
+  m_RegexValue: ""
   m_GlobalPointSize: 24
   m_CharacterLimit: 0
   m_OnEndEdit:
@@ -1994,16 +1987,6 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
-  m_Type: 0
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
 --- !u!222 &2059481867
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2113,7 +2096,7 @@ MonoBehaviour:
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
   m_TextStyleHashCode: -1183493901
-  m_overrideHtmlColors: 0
+  m_overrideHtmlColors: { }
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
@@ -2169,16 +2152,14 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2137966607}
   m_CullTransparentMesh: 1
->>>>>>> Stashed changes
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 1667931184}
   - {fileID: 349146600}
-<<<<<<< Updated upstream
-=======
   - {fileID: 168140548}
   - {fileID: 1600666361}
   - {fileID: 420968577}
->>>>>>> Stashed changes
+
+
