@@ -1,4 +1,4 @@
-This is a Unity Course Project covering the final courese cariculum for demonstrating the use of OOP. (Object Oriented Programming)
+This is a Unity Course Project covering the final course cariculum for demonstrating the use of OOP. (Object Oriented Programming)
 
 MATCHiT 
 Is a card matching game. You must match 8 pairs of cards in the fastest time possible. The fastest time will be at the top of the high scores table.!
