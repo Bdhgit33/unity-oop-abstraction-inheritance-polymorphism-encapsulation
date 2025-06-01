@@ -55,6 +55,10 @@ public class HighScoreController : MonoBehaviour
                                                .GetComponent<TextMeshProUGUI>();
 
             nameText.text = entry.playerName;
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
             timeText.text = $"{entry.timeSeconds:0.00}";
         }
     }
