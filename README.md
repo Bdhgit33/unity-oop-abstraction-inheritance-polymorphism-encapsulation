@@ -166,7 +166,3 @@ Other scripts just call SaveLoadManager.SavePlayerData(...) or LoadPlayerData() 
 
 
 This concludes that all the object oriented principals are in full action making MATCHiT card matching game for the final project for Junio Programmer Unity Course. 
-
-Please please the game on WebGL and enjoy!
-
-
