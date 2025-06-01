@@ -15,7 +15,7 @@ Below is 4 code snippets form my project that show the use of these pricipals in
 
 ----------------------------------------------------------------------
 ENCAPSULATION: 
-
+-------------------------------------------------------------------
 public class HighScoreController : MonoBehaviour
 {
    
@@ -33,6 +33,7 @@ public class HighScoreController : MonoBehaviour
     
     public IReadOnlyList<int> Scores => _scores.AsReadOnly();
 }
+
 -------------------------------------------------------------------------
 Explaination: Here we Encapulate the score data into read only lists so that the data can not be accidentally overwritten by outside changes. 
 Here we only let other people save and view the data in a safe way. 
@@ -70,7 +71,7 @@ Explaination:  You call someCard.OnReveal(), and at runtime Unity decides—“I
 Method Overloading Example - Polymorphism - Continued
 
 Here I use use the same method name but with different parameters.
-
+-------------------------------------------------------------------------------------------------------------------------------
 public class ScoreRow : MonoBehaviour
 {
     // Version 1: set name + time
@@ -153,12 +154,13 @@ public static class SaveLoadManager
     }
 }
 
-[Serializable]
+[Serializable}
 public class PlayerData
 {
     public string Name;
     public int BestTime;
 }
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 Other scripts just call SaveLoadManager.SavePlayerData(...) or LoadPlayerData() and never need to know about JSON or file paths.
 
