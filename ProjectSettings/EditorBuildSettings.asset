@@ -5,9 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Programming Theory - Unity Project/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/CardMatch.unity
+    guid: dc37723b2026a034bb75a3c05c39fb1d
+  - enabled: 1
+    path: Assets/HighScore.unity
+    guid: 388b9d06d91caa643994d2e2e98ee5f1
+  - enabled: 1
+    path: Assets/TitleScreen.unity
+    guid: cd2a3a5e3d11e5140b4a151f0dd5c794
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
