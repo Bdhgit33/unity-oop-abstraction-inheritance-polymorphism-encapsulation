@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 090f4e436a04a42f284cfd97a844ea97
+timeCreated: 1560383936
+licenseType: Store
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148119
+  packageName: Music For Puzzle Games
+  packageVersion: 1.0
+  assetPath: Assets/Aural Space/AS_Music_For_Puzzle_Games/Intense Puzzle Electro/IPE_Loop_Bass_2.wav
+  uploadId: 315648

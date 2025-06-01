@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 47f99e037a89d4aed909393293ad2aac
+timeCreated: 1560384037
+licenseType: Store
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148119
+  packageName: Music For Puzzle Games
+  packageVersion: 1.0
+  assetPath: Assets/Aural Space/AS_Music_For_Puzzle_Games/Oriental Puzzle Acoustic/OPA_Loop_Melody_2_Battle.wav
+  uploadId: 315648

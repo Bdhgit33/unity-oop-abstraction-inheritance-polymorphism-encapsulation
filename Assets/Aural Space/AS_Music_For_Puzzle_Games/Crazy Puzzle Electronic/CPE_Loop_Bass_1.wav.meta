@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: d9751ed9f7ac34134bfda881d025bbe5
+timeCreated: 1560384230
+licenseType: Store
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 148119
+  packageName: Music For Puzzle Games
+  packageVersion: 1.0
+  assetPath: Assets/Aural Space/AS_Music_For_Puzzle_Games/Crazy Puzzle Electronic/CPE_Loop_Bass_1.wav
+  uploadId: 315648
