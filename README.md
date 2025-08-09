@@ -1,6 +1,17 @@
-This is a Unity Course Project covering the final course cariculum for demonstrating the use of OOP. (Object Oriented Programming)
+# MATCHiT — Unity OOP Demo (Abstraction · Inheritance · Polymorphism · Encapsulation)
 
-MATCHiT 
+**Unity:** 2022.3 LTS · **Platform:** PC (tested)  
+**What:** Small card-matching game built to demonstrate core OOP patterns in Unity with clean, readable controllers.  
+**Run it:** Open in Unity 2022.3 LTS → open `Assets/Scenes/Main.unity` → Play.  
+**Controls:** Mouse/touch to reveal cards; match 8 pairs; high score saved to `Application.persistentDataPath`.
+
+# Tech highlights
+- **Encapsulation:** `HighScoreController` exposes a read-only list; controlled `AddScore()` keeps top 10.  
+- **Polymorphism:** `CardController` (abstract) with `TextCard`/`ImageCard` overrides.  
+- **Inheritance:** `GameController` base; `TitleScreenController` & `CardMatchController` override start/quit.  
+- **Abstraction:** `SaveLoadManager` hides JSON/file path details behind a simple API.
+
+# MATCHiT 
 Is a card matching game. You must match 8 pairs of cards in the fastest time possible. The fastest time will be at the top of the high scores table.!
 
 I choose this project to demonstration the 4 pricipals of object oeriented programming for its simplicity. so that I can focus on making good code whilst at the same time using the appropriate scenarios to adhere to the 4 following pricipals: 
